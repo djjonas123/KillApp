@@ -1,0 +1,6 @@
+.spec
+/venv
+/build
+/.idea
+*.spec
+/dist
